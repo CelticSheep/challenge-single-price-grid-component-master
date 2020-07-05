@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Karla', sans-serif;
+}
+
+h1{
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  color: hsl(179, 62%, 43%);
+}
+
+.mainback{
+  position: relative;
+  width: 1440px;
+  height: 720px;
+  background-color: #e6f7ff;
+}
+
+.mainbox1{
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  background-color: #fff;
+  padding: 2% 2%;
+  top: 130px;
+  left: 420px;
+  border-radius: 2.5% 2.5% 0 0;
+}
+
+.heading{
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+}
+
+.para{
+  color: #a6a6a6;
+}
+
+.mainbox2{
+  position: absolute;
+  color: #fff;
+  width: 300px;
+  height: 250px;
+  background-color: hsl(179, 62%, 43%);
+  padding: 2% 2%;
+  top: 330px;
+  left: 420px;
+  border-radius: 0 0 0 2.5%;
+}
+
+.monthly{
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.dollarsm{
+  margin-bottom: 0;
+}
+
+.dollars{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.per{
+  color: #e4e3e3;
+  font-size: 0.9rem;
+  vertical-align: super;
+}
+
+.btn{
+  width: 100%;
+  background-color: hsl(71, 73%, 54%);
+  margin-top: 1.2rem;
+}
+
+.mainbox3{
+  position: absolute;
+  color: #fff;
+  width: 300px;
+  height: 250px;
+  background-color: #87dfd6;
+  padding: 2% 4.8% 2% 2%;
+  top: 330px;
+  left: 720px;
+  border-radius: 0 0 2.5% 0;
+}
+
+.why{
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.para3{
+  font-size: 0.9rem;
+}
+
+.attribution {
+  position: absolute;
+  color: #024249;
+  font-size: 13px;
+  bottom: 10px;
+  left: 550px;
+}
+
+.attribution a {
+  color: #ff4301;
+  text-decoration: none;
+}
